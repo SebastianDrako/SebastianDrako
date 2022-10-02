@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🐲, I'm Sebastian but you can call me Drako</h1>
+<h1 align="center">Hi 🐲, I'm Sebastian Guerrero</h1>
 <h3 align="center">I'm a Student at the EAN university on Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiandrako&label=Profile%20views&color=1498af&style=flat-square" alt="sebastiandrako" /> </p>
