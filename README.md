@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastiandrako" alt="sebastiandrako" /></a> </p>
 
-- 🔭 I’m currently working on **Omega, a Cryptocurrency very interesting**
+- 🔭 I’m currently working on **Omega, a very interesting Cryptocurrency ** and **Developing some new things on WEB3**
 
 - 📫 How to reach me **pigeon@libreyate.org**
 
